@@ -9,7 +9,7 @@ class CustomCard extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return SizedBox(
-      height: 100,
+      height: 160,
       width: 350,
       child: Row(
         crossAxisAlignment: CrossAxisAlignment.start,
